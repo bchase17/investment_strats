@@ -6,4 +6,5 @@ The first of these algorithms is a general exploration into how certain key vari
 - The Volatility Index ETF (VXX)
 - Index moving averages (50, 100 and 200 days)
 - Treasury rates (2, 10 and 30 years)
-- RSI
+- Relative Strength Index
+- Put/Call Ratio
