@@ -1,6 +1,6 @@
 # Key variables as leading  indicators
 
-###Overview
+### Overview
 The first of these algorithms is a general exploration into how certain key variables perform for stock market movements as leading indicators across various time series. The reason for this analysis is to attempt to find a way to optimize investment decisions by maxmizing the likleihood of investing money ahead of the stock market rising and decrease risk when the market is expected to pull back from its current value.
 These indicators include:
 - The Volatility Index ETF (VXX)
