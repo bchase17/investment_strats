@@ -11,7 +11,8 @@ These indicators include:
 ## Table of Contents
 1. Setup/Requirements and Instructions for Running 
 2. Files in Repositroy
-3. Deep Dive into Analysis and Steps Taken
+3. Blog Post
+4. Deep Dive into Analysis and Steps Taken
 
 ## Setup/Requirements and Instructions for Running 
 - Finance Libraries: yfinance, pandas_datareader, alpha_vantage
@@ -25,6 +26,10 @@ These indicators include:
 'Holsitic Analysis.ipynb'.ipynb --> this has all of the code, from data aggregation/exploration to data analysis and machine learning training. The end of the code has the output of which indicators are most predictive for market movements and their respective weights.
 'Abbreviated Code.ipynb' --> the abbreviated version of 'Holsitic Analysis.ipynb'.ipynb that just contains the main functions, ML training and evaluation codes
 'visuals.py' --> contains functions for visualizing the results of ML models
+
+## Blog Post with Findings
+
+https://medium.com/@brettchase71/boosting-your-investment-success-odds-2c24d2e0c5ab
 
 ## Deep Dive into Analysis and Steps Taken
 
